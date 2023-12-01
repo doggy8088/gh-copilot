@@ -20,7 +20,7 @@
 ## 報名連結
 
 * 2023.12.01 (五) 20:00 - 22:00 [GitHub Copilot 協作開發實戰 (第一梯次)](https://www.accupass.com/go/gh-copilot) (已額滿)
-* 2023.12.08 (五) 20:00 - 22:00 [GitHub Copilot 協作開發實戰 (第二梯次)](https://www.accupass.com/go/gh-copilot-2) (熱烈報名中...)
+* 2023.12.08 (五) 20:00 - 22:00 [GitHub Copilot 協作開發實戰 (第二梯次)](https://www.accupass.com/go/gh-copilot-2) (即將額滿...)
 
 ## 給學員的話
 
@@ -52,8 +52,8 @@
 
 然後選擇你要購買的方案，目前有兩種方案可供選擇：
 
-1. 月繳 $10 美元
-2. 年繳 $100 美元 (一年可以省下 $20 美元)
+1. 月繳 `$10` 美元
+2. 年繳 `$100` 美元 (一年可以省下 `$20` 美元)
 
 ![GitHub Copilot - Buy now](images/github-copilot-buy.jpg)
 
@@ -218,7 +218,7 @@ GitHub Copilot 的功能也是透過安裝擴充套件來實現的，你需要�
 
 1. 寄件者：`julie@miniasp.com` 或 `service@accupass.com`
 
-2. 郵件主旨：`【上課通知】GitHub Copilot 協作開發實戰 1201`
+2. 郵件主旨：`【上課通知】GitHub Copilot 協作開發實戰 1208`
 
 3. 郵件內容：包含課前注意事項、進入 Zoom 會議室的「會議號碼」與「會議密碼」、進入會議室之後的「顯示名稱」、Slido 提問網站的「活動代碼」等資訊。
 
