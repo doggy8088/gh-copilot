@@ -62,9 +62,15 @@
 目前 GitHub Copilot 支援以下四種開發工具：
 
 1. [Visual Studio Code](https://code.visualstudio.com/)
+   1. [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+   2. [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
 2. [Visual Studio 2022](https://visualstudio.microsoft.com/zh-hant/vs/)
+   1. [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilotvs)
+   2. [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSGitHubCopilot)
 3. [JetBrains IDEs](https://www.jetbrains.com/)
+   1. [GitHub Copilot](https://plugins.jetbrains.com/plugin/17718-github-copilot)
 4. [Neovim](https://neovim.io/)
+   1. [Copilot.vim](https://github.com/github/copilot.vim)
 
 目前為止 GitHub Copilot 支援度最高的開發工具是 [Visual Studio Code](https://code.visualstudio.com/)，支援了 GitHub Copilot 的完整功能，比較能發揮全部戰力，因此本課程主要會以 Visual Studio Code 為主要使用工具。不過，本次課程所提到的任何觀念與技巧，可以適用在任何一套支援 GitHub Copilot 的開發工具上。
 
