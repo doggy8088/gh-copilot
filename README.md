@@ -20,7 +20,7 @@
 ## 報名連結
 
 * 2023.12.01 (五) 20:00 - 22:00 [GitHub Copilot 協作開發實戰 (第一梯次)](https://www.accupass.com/go/gh-copilot) (已額滿)
-* 2023.12.08 (五) 20:00 - 22:00 [GitHub Copilot 協作開發實戰 (第二梯次)](https://www.accupass.com/go/gh-copilot-2) (即將額滿...)
+* 2023.12.08 (五) 20:00 - 22:00 [GitHub Copilot 協作開發實戰 (第二梯次)](https://www.accupass.com/go/gh-copilot-2) (已額滿)
 
 ## 給學員的話
 
