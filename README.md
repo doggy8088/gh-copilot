@@ -21,6 +21,7 @@
 
 * 2023.12.01 (五) 20:00 - 22:00 [GitHub Copilot 協作開發實戰 (第一梯次)](https://www.accupass.com/go/gh-copilot) (已額滿)
 * 2023.12.08 (五) 20:00 - 22:00 [GitHub Copilot 協作開發實戰 (第二梯次)](https://www.accupass.com/go/gh-copilot-2) (已額滿)
+* 2023.12.13 (五) 20:00 - 22:00 [GitHub Copilot 協作開發實戰 (第三梯次)](https://www.accupass.com/go/gh-copilot-3) (熱烈報名中...)
 
 ## 給學員的話
 
@@ -73,6 +74,8 @@
    1. [Copilot.vim](https://github.com/github/copilot.vim)
 
 目前為止 GitHub Copilot 支援度最高的開發工具是 [Visual Studio Code](https://code.visualstudio.com/)，支援了 GitHub Copilot 的完整功能，比較能發揮全部戰力，因此本課程主要會以 Visual Studio Code 為主要使用工具。不過，本次課程所提到的任何觀念與技巧，可以適用在任何一套支援 GitHub Copilot 的開發工具上。
+
+有些 GitHub Copilot 最新功能要安裝 [Visual Studio Code Insiders](https://code.visualstudio.com/insiders/) 才能體驗，各位也可以考慮安裝這個版本。不過，由於 Visual Studio Code Insiders 版本的穩定度較低，使用時也許偶爾會遇到閃退的情況，遇到時只要重開即可。
 
 ## 安裝 Visual Studio Code 擴充套件
 
