@@ -13,15 +13,14 @@
 ## 課程特色
 
 * 由 [Will 保哥](https://www.facebook.com/will.fans) 全程線上授課，無地域限制，可即時回應學員任何疑惑
-* 學員可透過多種管道提問：Zoom 聊天室、Zoom 共享桌面
-* 學員可透過共享螢幕的方式提問與遠端控制，學員可觀摩解決問題的過程
+* 學員可透過多種管道提問：Slido、Zoom 聊天室、Zoom 共享桌面
 * 課程全程錄影，學員課後 3 個月內可免費無限次重播！
 
 ## 報名連結
 
 * 2023.12.01 (五) 20:00 - 22:00 [GitHub Copilot 協作開發實戰 (第一梯次)](https://www.accupass.com/go/gh-copilot) (已額滿)
 * 2023.12.08 (五) 20:00 - 22:00 [GitHub Copilot 協作開發實戰 (第二梯次)](https://www.accupass.com/go/gh-copilot-2) (已額滿)
-* 2023.12.13 (五) 20:00 - 22:00 [GitHub Copilot 協作開發實戰 (第三梯次)](https://www.accupass.com/go/gh-copilot-3) (熱烈報名中...)
+* 2023.12.13 (三) 20:00 - 22:00 [GitHub Copilot 協作開發實戰 (第三梯次)](https://www.accupass.com/go/gh-copilot-3) (熱烈報名中...)
 
 ## 給學員的話
 
