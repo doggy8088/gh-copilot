@@ -69,6 +69,7 @@
    2. [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSGitHubCopilot)
 3. [JetBrains IDEs](https://www.jetbrains.com/)
    1. [GitHub Copilot](https://plugins.jetbrains.com/plugin/17718-github-copilot)
+   2. `GitHub Copilot Chat` (目前要使用 Chat 功能需要先[登記候補](https://github.com/github-copilot/chat_jetbrains_waitlist_signup/join)才能用)
 4. [Neovim](https://neovim.io/)
    1. [Copilot.vim](https://github.com/github/copilot.vim)
 
@@ -220,7 +221,7 @@ GitHub Copilot 的功能也是透過安裝擴充套件來實現的，你需要�
 
 1. 寄件者：`julie@miniasp.com` 或 `service@accupass.com`
 
-2. 郵件主旨：`【上課通知】GitHub Copilot 協作開發實戰 1208`
+2. 郵件主旨：`【上課通知】GitHub Copilot 協作開發實戰 1213`
 
 3. 郵件內容：包含課前注意事項、進入 Zoom 會議室的「會議號碼」與「會議密碼」、進入會議室之後的「顯示名稱」、Slido 提問網站的「活動代碼」等資訊。
 
