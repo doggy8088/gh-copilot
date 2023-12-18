@@ -20,7 +20,9 @@
 
 * 2023.12.01 (五) 20:00 - 22:00 [GitHub Copilot 協作開發實戰 (第一梯次)](https://www.accupass.com/go/gh-copilot) (已額滿)
 * 2023.12.08 (五) 20:00 - 22:00 [GitHub Copilot 協作開發實戰 (第二梯次)](https://www.accupass.com/go/gh-copilot-2) (已額滿)
-* 2023.12.13 (三) 20:00 - 22:00 [GitHub Copilot 協作開發實戰 (第三梯次)](https://www.accupass.com/go/gh-copilot-3) (熱烈報名中...)
+* 2023.12.13 (三) 20:00 - 22:00 [GitHub Copilot 協作開發實戰 (第三梯次)](https://www.accupass.com/go/gh-copilot-3) (已額滿)
+
+> 如需購買錄影檔自學，歡迎[來信](mailto:training@miniasp.com)洽詢，加入課程的學員都可以參加本課程專屬的 LINE 學習社群，跟一千多位學員一起交流與成長！
 
 ## 給學員的話
 
@@ -77,6 +79,18 @@
 
 有些 GitHub Copilot 最新功能要安裝 [Visual Studio Code Insiders](https://code.visualstudio.com/insiders/) 才能體驗，各位也可以考慮安裝這個版本。不過，由於 Visual Studio Code Insiders 版本的穩定度較低，使用時也許偶爾會遇到閃退的情況，遇到時只要重開即可。
 
+## 使用 GitHub 商業版或企業版請記得先啟用功能
+
+由於 GitHub 商業版或企業版都需要先建立組織(Organization)才能使用，若你的 Copilot 授權是由公司統一管理的話，你的組織管理員必須先你的啟用 GitHub Copilot 相關功能才能使用，以下示意圖可以讓學員們參考。
+
+**GitHub 商業版**
+
+![GitHub 商業版](images/gh-org-copilot-enable.jpg)
+
+**GitHub 企業版**
+
+![GitHub 企業版](images/gh-ent-copilot-enable.jpg)
+
 ## 安裝 Visual Studio Code 擴充套件
 
 Visual Studio Code 是一套跨平台的編輯器，支援 Windows、macOS 與 Linux，因此理論上所有人都可以順利安裝與使用，如果你真的有遇到什麼困難，歡迎隨時[來信](mailto:training@miniasp.com)告知。
@@ -109,15 +123,9 @@ GitHub Copilot 的功能也是透過安裝擴充套件來實現的，你需要�
 
     ![VS Code Speech](images/vscode-ext-vs-code-speech.jpg)
 
-另外還有兩個擴充套件是可選的，我覺得沒那麼實用，課堂上也不會解說，但有興趣你還是可以安裝來玩看看：
+另外還有個擴充套件是可選的，我覺得沒那麼實用，課堂上也不會解說，但有興趣你還是可以安裝來玩看看：
 
-1. [GitHub Copilot Labs](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs)
-
-    ![GitHub Copilot Labs](images/vscode-ext-gh-copilot-labs.jpg)
-
-    大部分功能都可以被 [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) 取代，少部分功能很容易出現 Bug，因此我不太建議使用。
-
-2. [GitHub Copilot Voice](https://marketplace.visualstudio.com/items?itemName=GitHub.heygithub) ([需等候開通才能使用](https://githubnext.com/projects/copilot-voice/))
+1. [GitHub Copilot Voice](https://marketplace.visualstudio.com/items?itemName=GitHub.heygithub) ([需等候開通才能使用](https://githubnext.com/projects/copilot-voice/))
 
     ![GitHub Copilot Voice](images/vscode-ext-gh-copilot-voice.jpg)
 
@@ -219,9 +227,9 @@ GitHub Copilot 的功能也是透過安裝擴充套件來實現的，你需要�
 
 我們會在上課前一兩天發送「上課通知」信件給學員，信件內容包含：
 
-1. 寄件者：`julie@miniasp.com` 或 `service@accupass.com`
+1. 寄件者：`training@miniasp.com`
 
-2. 郵件主旨：`【上課通知】GitHub Copilot 協作開發實戰 1213`
+2. 郵件主旨：`【上課通知】GitHub Copilot 協作開發實戰 OOOO`
 
 3. 郵件內容：包含課前注意事項、進入 Zoom 會議室的「會議號碼」與「會議密碼」、進入會議室之後的「顯示名稱」、Slido 提問網站的「活動代碼」等資訊。
 
